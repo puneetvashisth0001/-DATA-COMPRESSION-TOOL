@@ -48,3 +48,6 @@ int main() {
 
     return 0;
 }
+VS CODE OUT PUT IS 
+
+<img width="257" height="192" alt="Image" src="https://github.com/user-attachments/assets/cd128c07-b0b8-4ed2-ae52-9d57ff7f7c62" />
